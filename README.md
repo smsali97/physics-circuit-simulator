@@ -8,23 +8,29 @@
 * Bulbs that glow as per the intensity of voltage levels
 * Junctions that can be used to join wires at a particular point
 
+## Demo
+
+![Demo](screenshots\demo.gif)
+
 ## Sample Screenshots
 
 ### Workflow
 
-![Sample 1](screenshots/sample_1.png)
+![Sample 1](screenshots/sample_1.PNG)
 
-![Sample 2](screenshots/sample_2.png)
+![Sample 2](screenshots/sample_2.PNG)
 
-![Sample 3](screenshots/sample_3.png)
+![Sample 3](screenshots/sample_3.PNG)
 
 ### Error Depictions
 
-![Error 1](screenshots/error_1.png)
+![Error 1](screenshots/error_1.PNG)
 
-![Error 2](screenshots/error_2.png)
+![Error 2](screenshots/error_2.PNG)
 
-![Error 3](screenshots/error_3.png)
+
+
+![Error 3](screenshots/error_3.PNG)
 
 ## Sources of Images Used:
 
