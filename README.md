@@ -10,7 +10,7 @@
 
 ## Demo
 
-![Demo](screenshots\demo.gif)
+![Demo](screenshots/demo.gif)
 
 ## Sample Screenshots
 
